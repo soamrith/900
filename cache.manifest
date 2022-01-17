@@ -1,14 +1,14 @@
 CACHE MANIFEST
 
 CACHE:
-/index.html
+index.html
 /jailbreak_files/jailbreak900.bin
 /jailbreak_files/font.css
 /jailbreak_files/font-awesome.min.css
 /jailbreak_files/int64.js
 /jailbreak_files/jquery-3.6.0.js
 /jailbreak_files/kexploit.js
-/jailbreak_files/logo.jpg
+./jailbreak_files/logo.jpg
 /jailbreak_files/main.js
 /jailbreak_files/rop.js
 /jailbreak_files/simple-notify.min.css
